@@ -68,7 +68,8 @@ During this short but intense period I supported the final stagest of Cronos dev
 
 As my journey continues, I am currently working on a promising (yet unrevealed) title, so I can't disclose any details for now.
 
-
+<!--
 ## Freelance
 ### 👉 I’m open to joining an additional part-time project (up to 12h / week).
 ### 👉 If you feel I can be helpful for your game, please reach out: dn.mski@gmail.com
+-->
