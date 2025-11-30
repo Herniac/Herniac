@@ -8,7 +8,7 @@ Here's a few details about me and a brief summary of my gamedev journey so far.
 - 🤖 Specialty: Enemies AI & Gameplay Systems
 -  🇵🇱 Work location: Poland (remote only)
 - 🔍 Currently learning: Navmesh generation
-- 🛠️ Other software: Photoshop, After Effects, Blender
+- 🛠️ Other software: Photoshop, After Effects, Blender, Inkscape
 - 🎨 Hobbies: [Painting](https://www.instagram.com/herniaccraft/) & [Music videos](https://www.youtube.com/@herniacproductions)
 - 📫 Contact: dn.mski@gmail.com
 
