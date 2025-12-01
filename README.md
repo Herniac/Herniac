@@ -9,7 +9,7 @@ Here's a few details about me and a brief summary of my gamedev journey so far.
 -  🇵🇱 Work location: Poland (remote only)
 - 🔍 Currently learning: Navmesh generation
 - 🛠️ Other software: Photoshop, After Effects, Blender, Inkscape, Perforce
-- 🎨 Hobbies: [Painting](https://www.instagram.com/herniaccraft/) & [Music videos](https://www.youtube.com/@herniacproductions)
+- 🎨 Hobbies: [Painting](https://www.instagram.com/herniaccraft/) & [Music videos](https://www.youtube.com/@herniacproductions) & Birds
 - 📫 Contact: dn.mski@gmail.com
 
 
